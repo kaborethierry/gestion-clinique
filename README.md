@@ -48,3 +48,14 @@ L’application gère : patients, consultations, rendez-vous, hospitalisations, 
 ```bash
 git clone https://github.com/kaborethierry/gestion-clinique.git
 
+## 📸 Captures d'écran
+
+**Page d'authentification :**  
+![Authentification](captures/auth.png)
+
+**Page d'accueil :**  
+![Accueil](captures/accueil.png)
+
+**Gestion des patients :**  
+![Patients](captures/patient.png)
+
